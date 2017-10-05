@@ -1,8 +1,8 @@
-#Fresh Tomatoes by Sourabh Sriom
+## Fresh Tomatoes by Sourabh Sriom
 
 Welcome to the movie browsing site of the generation. This site is your destination for all the classics of Indian Cinema, new and old!
 
-##Prerequisites
+## Prerequisites
 
 - Python 2.7 or higher
 - GitHub account
